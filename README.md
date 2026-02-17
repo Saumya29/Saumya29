@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Full Stack Engineer currently working at VdoCipher (https://www.vdocipher.com/)
+Full Stack Engineer currently working at Micro1 (https://www.micro1.ai/)
 
 ## 📫 You can reach me at:
 
