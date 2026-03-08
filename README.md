@@ -17,3 +17,4 @@ I'm tinkering a lot with AI these days - OpenClaw, coding harnesses, agent orche
 | **[tx-summary](https://github.com/Saumya29/tx-summary)** | Summarize any blockchain transaction in plain English - no LLM, pure pattern matching | |
 | **[SprintSync](https://github.com/Saumya29/SprintSync)** | Sprint tracker with AI-powered velocity analysis and planning | [try it](https://sprintsync-opal.vercel.app) |
 | **[DeFi Positions Tracker](https://github.com/Saumya29/defi-positions-tracker)** | Monitor Aave V3 and Uniswap V3 positions for any Ethereum wallet | |
+| **[AUSD Dashboard](https://github.com/Saumya29/ausd-dashboard)** | Real-time multi-chain supply tracker for Agora's AUSD stablecoin | [try it](https://ausd-dashboard.vercel.app) |
