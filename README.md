@@ -8,7 +8,7 @@ I'm tinkering a lot with AI these days - OpenClaw, coding harnesses, agent orche
 
 | | | |
 |---|---|---|
-| **[InterviewRoast](https://github.com/Saumya29/whydidntigetthejob)** | AI mock interviewer that scores you and tells you where you lost the room | [try it](https://whydidntigetthejob.saumyatiwari.com) |
+| **[WhyDidntIGetTheJob](https://github.com/Saumya29/whydidntigetthejob)** | AI mock interviewer that scores you and tells you where you lost the room | [try it](https://whydidntigetthejob.saumyatiwari.com) |
 | **[AskBase](https://github.com/Saumya29/askbase)** | Chat with your documents - streaming answers with source citations | |
 | **[AdvisorAI](https://github.com/Saumya29/financial-agent)** | Client advisory copilot - meetings, notes, insights across your client base | |
 | **[Iran-UAE Explainer](https://github.com/Saumya29/iran-uae-explainer)** | Crisis explainer I built over a weekend when debris started falling over the UAE | [try it](https://war.saumyatiwari.com) |
