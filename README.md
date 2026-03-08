@@ -2,7 +2,7 @@
 
 Full Stack Engineer at [Micro1](https://www.micro1.ai/). I build things that solve problems I've personally run into - from interview prep to DeFi dashboards to crisis information tools.
 
-[saumyatiwari.com](https://saumyatiwari.com) · [Twitter](https://x.com/SaumyaTiwari29) · [LinkedIn](https://www.linkedin.com/in/saumyatiwari29/) · [Telegram](https://t.me/saumyatw)
+[saumyatiwari.com](https://saumyatiwari.com) · [Twitter](https://x.com/SaumyaTiwari29) · [LinkedIn](https://www.linkedin.com/in/saumyatiwari29/) · [Telegram](https://t.me/saumyathent)
 
 ---
 
